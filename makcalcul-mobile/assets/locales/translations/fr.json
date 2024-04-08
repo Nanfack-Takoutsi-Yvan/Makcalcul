@@ -1,0 +1,5 @@
+{
+  "hello_world": "Bienvenue a React et React-i18next, c'est {{name}}",
+  "boundary_error": "Une erreur est survenue, recharger l'application en appuyant sur le boutton ci dessous ou veuillez rééssayer plus tard",
+  "cta_try_again": "Rééssayer"
+}
